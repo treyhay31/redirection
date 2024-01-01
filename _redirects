@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /home               https://hello.treyhay.com
-/                   https://hello.treyhay.com
+/                   https://dontgetgot.co.uk/
 /cards              https://tarjetas.treyhay.com
 /resume             https://registry.jsonresume.org/treyhay31
 /resume-download    https://tdhresume.blob.core.windows.net/resumetdhbucket/resume.pdf
